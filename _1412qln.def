@@ -1,0 +1,11 @@
+SLAVE:
+INPUT: _1412qln.inm
+MODNAME: apmain
+RUNID: _1412qln
+NEW_RUNID: _1412qln
+OLD_RUNID: _1412qln
+PDF: _1412qln.appdf
+USERNAME: shriniwas
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+SPONLY:
+DBCONN: _1412qln

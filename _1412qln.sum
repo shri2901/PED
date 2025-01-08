@@ -1,0 +1,7 @@
+ IDSET ID_194 (NPOINT) (#1)                                                     
+ IDSET ID_195 (PROPERTIES) (263 *5 241 *2 41151 *2 256 *2 257 *6 126 *6 258 *5  
+ )                                                                              
+ LSET L_116 (%ID_195 & %ID_194)                                                 
+ DSET CONV-SUM TEAR-SUMMARY CNV_TEAR @L_116 ("S18" 1.45004582D-10               
+ -1.34527870D-06 1.34527870D-02 "H2O MOLEFLOW" "#" "$OLVER01" )                 
+ DSET CONV-SUM TEAR-SUMMARY COMPSTAT @L_1 (0)                                   
